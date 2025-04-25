@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://png.pngtree.com/png-vector/20250327/ourmid/pngtree-young-hacker-programmer-expert-coder-sitting-at-laptop-d-png-image_15882599.png"  />
+<img align="right" height="" src="https://png.pngtree.com/png-vector/20250327/ourmid/pngtree-young-hacker-programmer-expert-coder-sitting-at-laptop-d-png-image_15882599.png"  />
 
 ###
 
