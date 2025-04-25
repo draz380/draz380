@@ -38,9 +38,3 @@
 <p align="left">I am Abdel Hadi Khalil Abu Draz. I am a smartphone application programming graduate<br>and currently working as a front-end developer for more than 2 years<br>and have worked on many projects with companies and freelancers.</p>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/draz380/draz380/output/snake.svg" alt="Snake animation" />
-
-###
